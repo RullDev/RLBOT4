@@ -3,9 +3,9 @@ let fetch = require('node-fetch')
 let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=Source+code'
 let info = `╭═[ *SCRIPT* ]═────···
 ┴
-│ *Script :* 60K (No node_module)
-│ *Base :*
-│ ╰ https://github.com/nurutomo/wabot-aq
+│ *Script :* 80K (+ node_module)
+│ *Minat? :*
+│ ╰ Chat me 6287753812675
 │ *RestApi :* 
 │ ╰ https://hardianto.xyz
 ┬
